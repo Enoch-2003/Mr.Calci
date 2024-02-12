@@ -24,10 +24,10 @@ button{
 }
 .row input{
   background: #e3f9ff;
-  padding: 41px 3px;
-  margin: 15px;
+  padding: 42px 0px;
+  margin: 4px;
   align-items: center;
-  border: 2px solid black;
+  border: 8px solid black;
   border-radius: 10px;
 }
 .text-center{
