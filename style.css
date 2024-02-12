@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+html,body {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  font-family: Honk;
+}
+button{
+  background-color: grey;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+  padding: 20px;
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  margin: 0 3px;
+  border: 2px solid black;
+  box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.2);
+  background: transparent;
+}
+.row{
+  margin: 5px 0px;
+}
+.row input{
+  background: #e3f9ff;
+  padding: 41px 3px;
+  margin: 15px;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+.text-center{
+  font-size: 50px;
+}
+.input{
+  text-align: center;
+  font-size: 30px;
+}
